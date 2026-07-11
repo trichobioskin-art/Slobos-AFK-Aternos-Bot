@@ -8,14 +8,14 @@
   "server": {
     "ip": "jefferyepsten1.aternos.me",
     "port": 27586,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 3000000,
     "y": 100,
-    "z": 0
+    "z": 3000000
   },
   "utils": {
     "auto-auth": {
